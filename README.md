@@ -2,7 +2,7 @@
 
 
 🌠I am a technical college student
-
+🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimlinux&theme=dracula)
