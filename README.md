@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-🌠I am a technical college student <br>
-🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠
+🌠I am a technical college student <br><br>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimlinux&theme=dracula)
