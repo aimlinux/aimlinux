@@ -16,27 +16,13 @@
 ## ⚡ Skills
 
 ### 💻 Programming Languages
-- Python / JavaScript / TypeScript / C
+- Python / JavaScript / TypeScript / C / Rust / Dart / C++ / C#
 
 ### 🌐 Web
-- HTML / CSS / React / Firebase
+- HTML / CSS / React / Firebase / Ruby
 
 ### 🤖 Others
 - OpenCV / Machine Learning / Git / Linux
-
----
-
-## 🎸 Featured Projects
-
-### 🎵 Guitar Chord Generator
-> コード進行を自動生成＋MIDI再生できるアプリ  
-- Python + Tkinter + MIDI
-- 音楽理論ベースのロジック
-
----
-
-### 📸 Image Processing App
-> OpenCVを使った画像認識プロジェクト（開発中）
 
 ---
 
