@@ -108,16 +108,6 @@
 
 ---
 
-## 🔗 Links & Motto | リンクと座右の銘
 
-<div align="center">
-
-### 🌐 [Kazuma Kohara ポートフォリオサイト]([あなたのポートフォリオサイトのURL])
-### 🐦 [X (Twitter)]([あなたのXアカウントのURL])
-### 💬 [LinkedIn]([あなたのLinkedInアカウントのURL])
-
----
-
-### **BUILD SOMETHING THAT PEOPLE ACTUALLY USE.**
 
 </div>
